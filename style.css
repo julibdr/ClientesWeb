@@ -1,0 +1,38 @@
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
+a:hover{
+    color: rgb(200, 209, 216) !important;
+
+}
+.team{
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 15%;
+}
+hr{
+    margin-top: 5% !important;
+}
+i{
+    width: 20px !important;
+}
+i:hover{
+    color: rgb(7, 7, 107) !important;  
+}
+.head:hover{
+    color: rgb(7, 7, 107) !important;
+}
+.chat{
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+
+.formEdit{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
